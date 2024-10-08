@@ -1,2 +1,12 @@
 # CISCO-ROUTING
 Showcasing hands-on expertise in Cisco network simulation, covering Static Routing, Password Breaking, OS Recovery, RIP,OSPF, Redistribution, NAT, PAT, IPv6 Classless Routing, and ACL, etc
+1
+w
+w
+e
+e s
+d
+
+s
+
+s
